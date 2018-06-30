@@ -1,7 +1,7 @@
 # apple:打造自己的博客
 ![](https://github.com/mm530/apple/raw/master/logo.jpg)
 
-apple，一个基于django开发的博客系统。网站的架构是借鉴51job.com的。
+Apple，一个基于django开发的博客系统，网站的架构是借鉴51job.com。
 
 主要分为这么几个功能模块:
 * login模块，用于用户注册，登录，退出，更改密码，找回密码，注册邮箱验证码
