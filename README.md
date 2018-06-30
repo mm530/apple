@@ -1,4 +1,4 @@
-# apple:打造自己的博客
+# Apple:打造自己的博客
 ![](https://github.com/mm530/apple/raw/master/logo.jpg)
 
 Apple，一个基于django开发的博客系统，网站的架构是借鉴51job.com。
